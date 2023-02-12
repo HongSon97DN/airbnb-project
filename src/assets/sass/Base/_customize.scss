@@ -1,0 +1,26 @@
+.border_bottom {
+    border-bottom: 1px solid #ababab5e;
+}
+.boxshadow {
+    box-shadow: 0px 0px 8px #aba9a995;
+}
+.border_around {
+    border: 2px solid black;
+    border-radius: 6px;
+}
+.border_around-thin {
+    border: 1px solid #aba9a995;
+    border-radius: 6px;
+}
+.border_around-medium {
+    border: 1px solid #aba9a9e2;
+    border-radius: 6px;
+}
+
+.mapboxgl-popup-content {
+    background-color: transparent;
+}
+
+.mapboxgl-popup-tip{
+    opacity: 0;
+}
